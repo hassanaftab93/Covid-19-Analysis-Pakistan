@@ -14,6 +14,6 @@ Users are allowed to use, copy, distribute and cite the dataset as follows: “M
 ## Authors
 
 - [@hassanaftab93](https://www.github.com/hassanaftab93)
-## References
+## Dataset
 
-- [![Dataset]("Dataset")](https://www.kaggle.com/mesumraza/corona-virus-pakistan-dataset-2020)
+- [![Dataset](https://scwcontent.affino.com/AcuCustom/Sitename/DAM/022/data_graph__virus_Adobe.jpg)](https://www.kaggle.com/mesumraza/corona-virus-pakistan-dataset-2020)
