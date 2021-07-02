@@ -14,9 +14,6 @@ Users are allowed to use, copy, distribute and cite the dataset as follows: “M
 ## Authors
 
 - [@hassanaftab93](https://www.github.com/hassanaftab93)
+## References
 
-  
-## Badges
-
-[![IBM Certified Data Analyst](https://images.credly.com/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/badges/352f63db-bb8b-4eb6-8f83-c370f5f4e836)
-
+- [![Dataset]("Dataset")](https://www.kaggle.com/mesumraza/corona-virus-pakistan-dataset-2020)
